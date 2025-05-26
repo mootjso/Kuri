@@ -40,26 +40,4 @@
 
 ---
 
-## 📦 Getting Started
-1. Clone the repository:
-```bash
-git clone https://github.com/mootjso/Kuri.git
-```
-2. Open the project in **Visual Studio 2022** with .NET MAUI installed.
-3. Build and run the app on Android or iOS emulator/device.
-
----
-
-## 🙌 Contributing
-Want to contribute or help expand the app? Reach out or submit a pull request! More features and improvements are always welcome.
-
----
-
-## 📬 Contact
-For questions, suggestions, or feedback:
-- GitHub Issues
-- Discord: [Insert your Discord username or server link here]
-
----
-
-Made with ❤️ by BDO guild members, for BDO guild members.
+Made by me, for Kuri guild members.
