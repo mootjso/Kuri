@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kuri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+97c97ed5833326bfde0f1c4ea0fb00481c262e1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c1c796daf6dc21a003a882e4f32d0567e1e896db")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kuri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kuri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

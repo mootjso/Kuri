@@ -33,8 +33,8 @@ public partial class MainPage : ContentPage
         {
             Spans =
             {
-                new Span { Text = $"Good {timeOfDay} ", TextColor = Color.FromArgb("#9367CA") },
-                new Span { Text = "User!", TextColor = Color.FromArgb("#BE89FF") }
+                new Span { Text = $"Good {timeOfDay} ", TextColor = Color.FromArgb("#9367CA"), FontFamily = "BubblegumSans" },
+                new Span { Text = "User!", TextColor = Color.FromArgb("#6311C9"), FontFamily = "BubblegumSans" }
             }
         };
     }
